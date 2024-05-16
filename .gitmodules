@@ -1,0 +1,3 @@
+[submodule "components/esopublic"]
+	path = components/esopublic
+	url = git@gitlab.esope.de:esope/intern/module/esopublic.git
